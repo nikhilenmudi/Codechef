@@ -1,0 +1,3 @@
+Tricky if you dont know the logic behind calculating number of trailing zeroes..
+Found the algorithm for this problem on purplemath.com.
+Next it was easy to implement

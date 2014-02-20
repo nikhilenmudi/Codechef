@@ -1,0 +1,3 @@
+This was a tricky one.
+First I thought it is simple but my program always exceeded time limit inspite of Arrays.sort() being nlogn...
+Then opitimizing the io did the trick!
